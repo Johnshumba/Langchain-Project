@@ -1,4 +1,4 @@
-# LangChain Tutorial
+# LangChain Project
 
 Welcome to the LangChain project codebase! This repository provides a hands-on, chapter-based guide to building applications with [LangChain](https://python.langchain.com/), a powerful framework for developing language model-powered workflows and agents. The tutorial is organized into chapters, each focusing on a different aspect of LangChain, from basic LLM calls to advanced agent and database integrations.
 
@@ -119,6 +119,7 @@ Key dependencies (see `pyproject.toml`):
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for improvements, bug fixes, or new tutorial chapters.
+
 
 
 
